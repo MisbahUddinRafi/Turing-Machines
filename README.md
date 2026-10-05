@@ -13,7 +13,7 @@ In this repository, I designed some Turing machines using `Tursi.jar`.
 - For more information visit [Tursi](https://schaetzc.github.io/tursi/). 
 
 
-## What to Write the `.tm` File 
+## How to Write the `.tm` File 
 - use `#` for comments. 
 - use `#!` for commands. 
     ```
